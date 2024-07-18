@@ -8,6 +8,7 @@
 # Add files to the staging area:
 
 ``` git add abc.txt ```
+
 ``` git add . ```
 
 # Commit the changes:
